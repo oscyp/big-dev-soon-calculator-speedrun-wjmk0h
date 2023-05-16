@@ -1,4 +1,4 @@
-# Calculator Project
+# Calculator Projectt
 
 Hello to [BigDevSoon](https://bigdevsoon.me/) 👋
 
